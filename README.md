@@ -16,7 +16,7 @@
 Travelo is a collaborative project that includes a group of four members. This project serves as a travel website that allows the user to book the tickets for different destinations based on the user's choice with different sporting events.
 
 ## Live Link
-<a href="https://byte-harmony-2098-2t9nrvp2j-vinays-projects-62dae745.vercel.app/index.html">Travelo website link</a>
+<a href="https://byte-harmony-2098-sandy.vercel.app/">Travelo website link</a>
 
 ## Team Members
 
